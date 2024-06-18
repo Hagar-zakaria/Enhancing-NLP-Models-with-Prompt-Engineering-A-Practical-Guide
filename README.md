@@ -37,3 +37,14 @@ By designing prompts that clearly defined user intents, we ensured the chatbot c
 2. Crafting Responses
 
 We created different scenarios and corresponding prompts to make the chatbot's interactions more natural and engaging. For example, if a customer expressed frustration, the prompt would guide the chatbot to respond empathetically and offer solutions.
+
+![image](https://github.com/Hagar-zakaria/Enhancing-NLP-Models-with-Prompt-Engineering-A-Practical-Guide/assets/93611934/8271b9bf-020d-4d4d-bce9-ba2060bfe294)
+
+Example Scenario:
+
+User Input: "I'm really frustrated with my recent Bitcoin transaction."
+Prompt for Chatbot: "I'm sorry to hear that you're frustrated. Can you provide more details about the issue so I can assist you better?"
+Impact: This careful crafting of prompts improved the chatbot's effectiveness, providing timely and accurate responses, thereby enhancing customer satisfaction.
+
+# Conclusion
+Prompt engineering is a powerful tool in the arsenal of data scientists working on NLP projects. Whether it’s improving sentiment analysis or building responsive chatbots, the strategic design of prompts can significantly elevate the performance of AI models. By focusing on clarity and context, prompt engineering ensures that models not only understand the text better but also provide more meaningful and accurate outputs.
