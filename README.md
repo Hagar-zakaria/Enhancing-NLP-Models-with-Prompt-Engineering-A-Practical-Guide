@@ -24,3 +24,16 @@ To help the model distinguish between different sentiments, we designed specific
 
 ```plaintext
 Analyze the following tweet and determine if it is positive, negative, or neutral. Consider the tone and context: 'I just love how Bitcoin crashes right after I buy some. #sarcasm'
+
+Impact: This approach improved the model's performance, making the sentiment analysis more reliable and actionable.
+
+## Building a Chatbot Using Prompt Engineering
+Another application of prompt engineering is in developing chatbots. Here’s an example of how I used prompt engineering to enhance a customer service chatbot:
+
+1. Understanding User Intent
+
+By designing prompts that clearly defined user intents, we ensured the chatbot could accurately interpret and respond to various customer inquiries.
+
+2. Crafting Responses
+
+We created different scenarios and corresponding prompts to make the chatbot's interactions more natural and engaging. For example, if a customer expressed frustration, the prompt would guide the chatbot to respond empathetically and offer solutions.
