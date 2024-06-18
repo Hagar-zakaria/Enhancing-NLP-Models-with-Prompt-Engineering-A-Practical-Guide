@@ -22,6 +22,6 @@ One of the practical applications of prompt engineering in NLP is sentiment anal
 
 To help the model distinguish between different sentiments, we designed specific prompts. For instance, we included keywords and context indicators to improve the model's ability to identify sarcasm. One of the prompts used was structured to make the model consider the tone and context, which significantly enhanced its accuracy in detecting sarcastic comments.
 
-''
+'''
 Analyze the following tweet and determine if it is positive, negative, or neutral. Consider the tone and context: 'I just love how Bitcoin crashes right after I buy some. #sarcasm'
-''
+'''
